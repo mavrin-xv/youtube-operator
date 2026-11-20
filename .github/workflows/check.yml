@@ -1,0 +1,19 @@
+name: check
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Python files compile
+        run: python3 -m compileall -q .
+      - name: Shell scripts parse
+        run: for f in $(git ls-files '*.sh'); do bash -n "$f"; done
+      - name: Installer runs on an empty home
+        run: |
+          export HOME="$(mktemp -d)"
+          bash ./install.sh
+          test -n "$(ls "$HOME/.claude/skills")"

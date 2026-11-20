@@ -1,0 +1,419 @@
+{
+ "fetched": "2026-03-01",
+ "note": "Invented channels and numbers for the walkthrough.",
+ "channels": [
+  {
+   "handle": "@acmejoinery",
+   "title": "Acme Joinery",
+   "subscribers": 182000,
+   "videos": [
+    {
+     "id": "acm000x",
+     "title": "Dovetails by Hand: The 3 Cuts That Matter",
+     "published": "2026-02-07",
+     "views": 30514,
+     "duration_s": 884
+    },
+    {
+     "id": "acm001x",
+     "title": "Why Your Glue-Ups Keep Slipping",
+     "published": "2026-01-11",
+     "views": 13512,
+     "duration_s": 1320
+    },
+    {
+     "id": "acm002x",
+     "title": "I Built a Workbench for $90",
+     "published": "2025-12-19",
+     "views": 136500,
+     "duration_s": 1076
+    },
+    {
+     "id": "acm003x",
+     "title": "Hand Plane Setup in 10 Minutes",
+     "published": "2025-11-29",
+     "views": 29793,
+     "duration_s": 699
+    },
+    {
+     "id": "acm004x",
+     "title": "Stop Sanding Past 180 Grit",
+     "published": "2025-11-05",
+     "views": 14224,
+     "duration_s": 908
+    },
+    {
+     "id": "acm005x",
+     "title": "Mortise and Tenon Without a Router",
+     "published": "2025-10-12",
+     "views": 17148,
+     "duration_s": 1044
+    },
+    {
+     "id": "acm006x",
+     "title": "Sharpening Chisels: Waterstones vs Diamond Plates",
+     "published": "2025-09-15",
+     "views": 13717,
+     "duration_s": 1059
+    },
+    {
+     "id": "acm007x",
+     "title": "The Cheapest Tablesaw Sled That Works",
+     "published": "2025-08-25",
+     "views": 30506,
+     "duration_s": 1125
+    },
+    {
+     "id": "acm008x",
+     "title": "Finishing Walnut: Oil vs Wipe-On Poly",
+     "published": "2025-07-27",
+     "views": 23618,
+     "duration_s": 543
+    },
+    {
+     "id": "acm009x",
+     "title": "5 Clamps Every Beginner Needs",
+     "published": "2025-07-04",
+     "views": 23666,
+     "duration_s": 530
+    },
+    {
+     "id": "acm010x",
+     "title": "How Wood Movement Cracks Tabletops",
+     "published": "2025-06-13",
+     "views": 71400,
+     "duration_s": 1359
+    },
+    {
+     "id": "acm011x",
+     "title": "Building a Shaker Side Table, Start to Finish",
+     "published": "2025-05-20",
+     "views": 18073,
+     "duration_s": 627
+    },
+    {
+     "id": "acm012x",
+     "title": "My Shop Tour 2026",
+     "published": "2025-04-23",
+     "views": 12600,
+     "duration_s": 795
+    },
+    {
+     "id": "acm013x",
+     "title": "Router Table From Scrap Plywood",
+     "published": "2025-03-30",
+     "views": 28024,
+     "duration_s": 665
+    }
+   ]
+  },
+  {
+   "handle": "@offcutstudio",
+   "title": "Offcut Studio",
+   "subscribers": 46000,
+   "videos": [
+    {
+     "id": "off000x",
+     "title": "Small Shop Storage Under $50",
+     "published": "2026-02-09",
+     "views": 6740,
+     "duration_s": 1134
+    },
+    {
+     "id": "off001x",
+     "title": "Why Cheap Clamps Ruin Square Boxes",
+     "published": "2026-01-15",
+     "views": 25200,
+     "duration_s": 1040
+    },
+    {
+     "id": "off002x",
+     "title": "Making Cutting Boards to Sell",
+     "published": "2025-12-18",
+     "views": 3939,
+     "duration_s": 541
+    },
+    {
+     "id": "off003x",
+     "title": "Epoxy River Table Mistakes",
+     "published": "2025-11-25",
+     "views": 4712,
+     "duration_s": 1176
+    },
+    {
+     "id": "off004x",
+     "title": "How Much I Made Selling Cutting Boards",
+     "published": "2025-11-01",
+     "views": 70800,
+     "duration_s": 801
+    },
+    {
+     "id": "off005x",
+     "title": "French Cleat Wall in One Day",
+     "published": "2025-10-09",
+     "views": 6762,
+     "duration_s": 944
+    },
+    {
+     "id": "off006x",
+     "title": "Picture Frames From Offcuts",
+     "published": "2025-09-16",
+     "views": 5218,
+     "duration_s": 1293
+    },
+    {
+     "id": "off007x",
+     "title": "Spray Finish Without a Booth",
+     "published": "2025-08-24",
+     "views": 7374,
+     "duration_s": 729
+    },
+    {
+     "id": "off008x",
+     "title": "The Jig I Use Every Day",
+     "published": "2025-08-01",
+     "views": 6701,
+     "duration_s": 1017
+    },
+    {
+     "id": "off009x",
+     "title": "Laser Engraving Boards: Worth It?",
+     "published": "2025-07-05",
+     "views": 8325,
+     "duration_s": 1226
+    },
+    {
+     "id": "off010x",
+     "title": "Pricing Handmade Furniture",
+     "published": "2025-06-11",
+     "views": 15600,
+     "duration_s": 1483
+    },
+    {
+     "id": "off011x",
+     "title": "Bandsaw Box for Beginners",
+     "published": "2025-05-21",
+     "views": 4237,
+     "duration_s": 908
+    },
+    {
+     "id": "off012x",
+     "title": "Plywood vs Solid Wood for Cabinets",
+     "published": "2025-04-26",
+     "views": 7688,
+     "duration_s": 635
+    },
+    {
+     "id": "off013x",
+     "title": "Live Edge Shelf in 2 Hours",
+     "published": "2025-03-31",
+     "views": 5877,
+     "duration_s": 1465
+    }
+   ]
+  },
+  {
+   "handle": "@benchandburr",
+   "title": "Bench and Burr",
+   "subscribers": 9800,
+   "videos": [
+    {
+     "id": "ben000x",
+     "title": "Restoring a Rusted Hand Plane",
+     "published": "2026-02-04",
+     "views": 937,
+     "duration_s": 1051
+    },
+    {
+     "id": "ben001x",
+     "title": "Card Scraper Basics",
+     "published": "2026-01-12",
+     "views": 1834,
+     "duration_s": 140
+    },
+    {
+     "id": "ben002x",
+     "title": "Why Your Saw Drifts Left",
+     "published": "2025-12-17",
+     "views": 10220,
+     "duration_s": 1191
+    },
+    {
+     "id": "ben003x",
+     "title": "Spokeshave Chair Spindles",
+     "published": "2025-11-27",
+     "views": 1588,
+     "duration_s": 1073
+    },
+    {
+     "id": "ben004x",
+     "title": "Hide Glue vs PVA",
+     "published": "2025-10-30",
+     "views": 1414,
+     "duration_s": 1340
+    },
+    {
+     "id": "ben005x",
+     "title": "Making a Marking Gauge",
+     "published": "2025-10-12",
+     "views": 2030,
+     "duration_s": 965
+    },
+    {
+     "id": "ben006x",
+     "title": "Flattening a Bench With Winding Sticks",
+     "published": "2025-09-13",
+     "views": 1676,
+     "duration_s": 542
+    },
+    {
+     "id": "ben007x",
+     "title": "Saw Sharpening for Beginners",
+     "published": "2025-08-20",
+     "views": 1723,
+     "duration_s": 1142
+    },
+    {
+     "id": "ben008x",
+     "title": "Green Wood Stool, No Power Tools",
+     "published": "2025-07-28",
+     "views": 2091,
+     "duration_s": 1321
+    },
+    {
+     "id": "ben009x",
+     "title": "Shellac From Flakes",
+     "published": "2025-07-05",
+     "views": 1198,
+     "duration_s": 875
+    },
+    {
+     "id": "ben010x",
+     "title": "Tool Chest Build Part 1",
+     "published": "2025-06-09",
+     "views": 1277,
+     "duration_s": 1443
+    },
+    {
+     "id": "ben011x",
+     "title": "Tool Chest Build Part 2",
+     "published": "2025-05-18",
+     "views": 560,
+     "duration_s": 1105
+    },
+    {
+     "id": "ben012x",
+     "title": "Sharpening Jig Comparison",
+     "published": "2025-04-27",
+     "views": 1462,
+     "duration_s": 703
+    }
+   ]
+  },
+  {
+   "handle": "@garagecraftco",
+   "title": "Garage Craft Co",
+   "subscribers": 310000,
+   "videos": [
+    {
+     "id": "gar000x",
+     "title": "I Turned a One-Car Garage Into a Woodshop",
+     "published": "2026-02-03",
+     "views": 193800,
+     "duration_s": 1236
+    },
+    {
+     "id": "gar001x",
+     "title": "Dust Collection on a Budget",
+     "published": "2026-01-15",
+     "views": 36408,
+     "duration_s": 1418
+    },
+    {
+     "id": "gar002x",
+     "title": "10 Tools I Regret Buying",
+     "published": "2025-12-17",
+     "views": 117800,
+     "duration_s": 650
+    },
+    {
+     "id": "gar003x",
+     "title": "Tablesaw Safety Mistakes Beginners Make",
+     "published": "2025-11-26",
+     "views": 36536,
+     "duration_s": 764
+    },
+    {
+     "id": "gar004x",
+     "title": "Track Saw vs Tablesaw for Small Shops",
+     "published": "2025-11-04",
+     "views": 50819,
+     "duration_s": 1364
+    },
+    {
+     "id": "gar005x",
+     "title": "Shop Lighting Upgrade",
+     "published": "2025-10-08",
+     "views": 32322,
+     "duration_s": 905
+    },
+    {
+     "id": "gar006x",
+     "title": "Mobile Bases for Every Machine",
+     "published": "2025-09-16",
+     "views": 46149,
+     "duration_s": 869
+    },
+    {
+     "id": "gar007x",
+     "title": "How I Organize 200 Clamps",
+     "published": "2025-08-24",
+     "views": 27961,
+     "duration_s": 660
+    },
+    {
+     "id": "gar008x",
+     "title": "Building Garage Cabinets Cheap",
+     "published": "2025-07-31",
+     "views": 30732,
+     "duration_s": 718
+    },
+    {
+     "id": "gar009x",
+     "title": "Air Filtration: Does It Matter?",
+     "published": "2025-07-08",
+     "views": 39385,
+     "duration_s": 1083
+    },
+    {
+     "id": "gar010x",
+     "title": "Miter Station With Storage",
+     "published": "2025-06-13",
+     "views": 31785,
+     "duration_s": 484
+    },
+    {
+     "id": "gar011x",
+     "title": "Wall-Mounted Lumber Rack",
+     "published": "2025-05-20",
+     "views": 37127,
+     "duration_s": 858
+    },
+    {
+     "id": "gar012x",
+     "title": "My Biggest Shop Mistake",
+     "published": "2025-04-23",
+     "views": 42168,
+     "duration_s": 1455
+    },
+    {
+     "id": "gar013x",
+     "title": "Shop Heating for Winter",
+     "published": "2025-04-02",
+     "views": 46414,
+     "duration_s": 1007
+    }
+   ]
+  }
+ ]
+}

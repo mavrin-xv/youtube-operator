@@ -1,0 +1,118 @@
+{
+ "fetched": "2026-03-01",
+ "note": "Invented channel for the walkthrough.",
+ "channels": [
+  {
+   "handle": "@northwindwoodshop",
+   "title": "Northwind Woodshop",
+   "subscribers": 4300,
+   "videos": [
+    {
+     "id": "nwd000x",
+     "title": "Cutting Board From Scrap Maple",
+     "published": "2026-02-14",
+     "views": 2413,
+     "duration_s": 1090
+    },
+    {
+     "id": "nwd001x",
+     "title": "Why My Box Joints Gapped",
+     "published": "2026-01-24",
+     "views": 6840,
+     "duration_s": 475
+    },
+    {
+     "id": "nwd002x",
+     "title": "Shop Tour: 9 Square Meters",
+     "published": "2026-01-03",
+     "views": 665,
+     "duration_s": 992
+    },
+    {
+     "id": "nwd003x",
+     "title": "Hand-Cut Dovetails, First Attempt",
+     "published": "2025-12-13",
+     "views": 1777,
+     "duration_s": 828
+    },
+    {
+     "id": "nwd004x",
+     "title": "Sharpening Plane Irons Without a Jig",
+     "published": "2025-11-22",
+     "views": 1779,
+     "duration_s": 913
+    },
+    {
+     "id": "nwd005x",
+     "title": "Building a Step Stool for My Kid",
+     "published": "2025-11-01",
+     "views": 2053,
+     "duration_s": 483
+    },
+    {
+     "id": "nwd006x",
+     "title": "Finishing Oak With Hardwax Oil",
+     "published": "2025-10-11",
+     "views": 1547,
+     "duration_s": 633
+    },
+    {
+     "id": "nwd007x",
+     "title": "Router Bit Storage Rack",
+     "published": "2025-09-20",
+     "views": 532,
+     "duration_s": 532
+    },
+    {
+     "id": "nwd008x",
+     "title": "Why My Tabletop Cupped",
+     "published": "2025-08-30",
+     "views": 8360,
+     "duration_s": 425
+    },
+    {
+     "id": "nwd009x",
+     "title": "Making a Mallet From Offcuts",
+     "published": "2025-08-09",
+     "views": 1446,
+     "duration_s": 1000
+    },
+    {
+     "id": "nwd010x",
+     "title": "Coffee Table Build in Walnut",
+     "published": "2025-07-19",
+     "views": 1502,
+     "duration_s": 523
+    },
+    {
+     "id": "nwd011x",
+     "title": "Restoring a Flea Market Saw",
+     "published": "2025-06-28",
+     "views": 2411,
+     "duration_s": 1048
+    },
+    {
+     "id": "nwd012x",
+     "title": "Bench Hook in 20 Minutes",
+     "published": "2025-06-07",
+     "views": 855,
+     "duration_s": 632
+    },
+    {
+     "id": "nwd013x",
+     "title": "Glue-Up Mistakes I Keep Making",
+     "published": "2025-05-17",
+     "views": 2030,
+     "duration_s": 572
+    },
+    {
+     "id": "nwd014x",
+     "title": "Pricing My First Commission",
+     "published": "2025-04-26",
+     "views": 4560,
+     "duration_s": 775
+    }
+   ]
+  }
+ ]
+}

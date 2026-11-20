@@ -1,0 +1,15 @@
+{
+  "name": "youtube-operator",
+  "owner": {
+    "name": "Artem Mavrin",
+    "url": "https://github.com/mavrin-xv"
+  },
+  "plugins": [
+    {
+      "name": "youtube-operator",
+      "source": "./",
+      "description": "YouTube operating skills: lane, outlier topics, packaging and title scoring, retention scripts, publish lint, analytics loop.",
+      "version": "0.1.0"
+    }
+  ]
+}

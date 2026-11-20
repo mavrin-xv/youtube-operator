@@ -1,0 +1,12 @@
+{
+  "name": "youtube-operator",
+  "description": "The operating side of a YouTube channel as agent skills: lane and audit, outlier-based topic picking with a priority score, packaging before the script, retention-first scripting, a linted publish package and a windowed analytics loop. No production engine.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Artem Mavrin",
+    "url": "https://github.com/mavrin-xv"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mavrin-xv/youtube-operator",
+  "repository": "https://github.com/mavrin-xv/youtube-operator"
+}
